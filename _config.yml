@@ -11,6 +11,7 @@ email: blog@ranaldo.co.uk
 description: This is my website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: Michael Ranaldo
 twitter_username: michaeljranaldo
 github_username: michaelranaldo
 
