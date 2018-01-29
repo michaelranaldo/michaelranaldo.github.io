@@ -2,9 +2,6 @@
 layout: page
 title: Contact Me
 ---
-
-# Contact Me
-
 If you want to get in contact with me, {{site.author}}, the best way is:
 
 If you're on twitter, send a message to [@MichaelJRanaldo](https://twitter.com/michaeljranaldo).
